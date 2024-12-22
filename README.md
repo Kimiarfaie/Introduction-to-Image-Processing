@@ -1,5 +1,5 @@
 # Image-Processing
-Coursework for IDIG4321 Introduction to Image Processing course in Computer Science Department at NTNU.
+This repository contains the code for coursework of IDIG4321 Introduction to Image Processing course in Computer Science department at NTNU
 
 # Week 1
 Capture an image with your cell phone.
