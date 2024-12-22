@@ -1,5 +1,5 @@
 # Image-Processing
-Project for Introduction to Image Processing course at NTNU.
+Coursework for IDIG4321 Introduction to Image Processing course in Computer Science Department at NTNU.
 
 # Week 1
 Capture an image with your cell phone.
