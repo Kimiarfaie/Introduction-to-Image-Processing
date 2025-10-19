@@ -2,6 +2,8 @@ clc
 clear all
 close all
 
+addpath('../Functions');
+
 % Histogram of Image using imagehistogram.m func
 img = imread('Grayscale Image 256x256.jpg');
 h = imagehistogram(img);
